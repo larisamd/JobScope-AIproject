@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Local app data
+activity.json
+saved_jobs.json
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Test and editor artifacts
+.pytest_cache/
+.vscode/
