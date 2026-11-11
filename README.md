@@ -77,3 +77,16 @@ requirements.txt    Python dependencies
 ## Data and privacy
 
 Saved jobs and activity are stored locally in `saved_jobs.json` and `activity.json`. Do not commit personal resumes, API keys, or other private data. Resume text and job descriptions used with AI features are sent to the configured Groq or Gemini service for processing.
+
+
+
+<img width="1917" height="905" alt="image" src="https://github.com/user-attachments/assets/99e3641a-da13-40d2-a366-f7d8f0beee10" />
+<img width="1917" height="905" alt="image" src="https://github.com/user-attachments/assets/a66e5d35-9cea-4bd6-9cc8-369a9a767679" />
+<img width="1917" height="905" alt="image" src="https://github.com/user-attachments/assets/6e280faa-bf2f-4f2e-970e-3878dac8a4ff" />
+<img width="1917" height="905" alt="image" src="https://github.com/user-attachments/assets/650921a3-85c9-4d6e-9600-1733a06b96eb" />
+<img width="1917" height="905" alt="image" src="https://github.com/user-attachments/assets/a6bc1d05-7552-4b19-b099-b4e23ad9d8ae" />
+<img width="1917" height="905" alt="image" src="https://github.com/user-attachments/assets/75cb0189-c310-48db-81f8-f69eaf2ccd94" />
+<img width="1917" height="905" alt="image" src="https://github.com/user-attachments/assets/b0fe47dc-e21b-4276-b112-69069c723523" />
+
+
+
